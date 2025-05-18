@@ -1,2 +1,2 @@
 # tas_kagit_makas
-pythonda yaptığım ufak eğlenceli bir oyun kodudur :)
+pythonda yaptığım ufak eğlenceli bir oyun kodudur 
