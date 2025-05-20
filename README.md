@@ -31,3 +31,14 @@ Kullanılan `random` modülü, Python ile birlikte gelen **standart bir kütüph
 
 ```bash
 python taş-kağıt-makas.py
+```
+
+---
+## 🤝 İletişim ve Katkıda Bulunma
+
+* 🐛 Hata bildirimleri için [Issues](https://github.com/Batuhanbey-kose/tas_kagit_makas/issues) sayfasını kullanın
+
+* 💡 Yeni özellik önerileri için [Pull Request](https://github.com/Batuhanbey-kose/tas_kagit_makas/pulls) gönderin
+
+* 📧 İletişim: kosebatuhanbey@gmail.com
+
