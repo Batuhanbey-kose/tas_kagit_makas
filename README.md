@@ -42,3 +42,7 @@ python taş-kağıt-makas.py
 
 * 📧 İletişim: kosebatuhanbey@gmail.com
 
+--- 
+<p align="center" style="font-size:small;"> 
+  ✍️ <b>Written by:</b> Batuhanbey Köse<br> 
+  🚀 Made with ❤️ and ☕ </p>
